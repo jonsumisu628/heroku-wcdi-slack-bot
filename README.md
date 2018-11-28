@@ -9,4 +9,5 @@ pip install slackbot
 pip install python-dotenv
 python run.py
 ```
-
+### heroku
+use plugin `heroku-config`
